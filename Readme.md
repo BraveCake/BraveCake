@@ -1,19 +1,4 @@
 
-
-<!--
-**BraveCake/BraveCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # About Me
 
 - Name: **Ali** 
@@ -38,8 +23,8 @@ Here are some ideas to get you started:
 
 
 # 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraveCake&layout=compact&langs_count=7">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraveCake&layout=compact&langs_count=8">
   
   # Contact me
-<img src="https://img.shields.io/badge/BraveCake%234545%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">   <a href="https://codeforces.com/profile/BraveCake" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="BraveCake" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/BraveCake404-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">   <a href="https://codeforces.com/profile/BraveCake" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="BraveCake" height="30" width="40" /></a>
 
