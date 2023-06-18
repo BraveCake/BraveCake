@@ -26,5 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraveCake&layout=compact&langs_count=8">
   
   # Contact me
-<img src="https://img.shields.io/badge/BraveCake404-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">   <a href="https://codeforces.com/profile/BraveCake" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="BraveCake" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/BraveCake-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">   <a href="https://codeforces.com/profile/BraveCake" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="BraveCake" height="30" width="40" /></a>
 
