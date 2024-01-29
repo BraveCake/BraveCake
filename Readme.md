@@ -3,7 +3,7 @@
 
 - Name: **Ali** 
 - Lives in: **Egypt**
-- Speaks : **Arabic(Native), English(Advanced), French(Basic), Japanese(Passive)**
+- Speaks : **Arabic(Native), English(Advanced), German(Basic), French(Basic), Japanese(Passive)**
 
 # Knowledge
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -17,8 +17,10 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=000000&logoColor=FFFFFF&label=)
 ![LUA](https://img.shields.io/static/v1?style=for-the-badge&message=Lua&color=000080&logo=lua&logoColor=FFFFFF&label=)
+
 
 
 
